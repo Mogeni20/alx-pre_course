@@ -1,1 +1,1 @@
-This is a non-empty README.md file in the root of the repository
+This is a non-written README.md file in the root of the repository
